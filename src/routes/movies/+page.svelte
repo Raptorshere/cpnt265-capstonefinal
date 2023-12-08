@@ -1,17 +1,17 @@
 <body class="bg-orange-950">
   
-  <figure class="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <figure class="h-auto max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/avengers-1.jpg" alt="image description">
     </a>
     <figcaption class="absolute px-4 text-lg text-white bottom-6">
-      <p>Phase 7</p>
+      <p>Phase 1</p>
     </figcaption>
   </figure>
   <h1 class="font-[WorkSans] text-3xl text-white">Phase 1</h1>
   <p class="font-[WorkSans] text-white">Where it all began</p>
   
-  <figure class="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <figure class="h-auto max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/guardians-of-the-galaxy.jpg" alt="image description">
     </a>
@@ -57,7 +57,7 @@
   <p class="font-[WorkSans] text-white">To New Beginnings</p>
 </body>
   
-  
+relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0
 
 <!-- <body class="bg-orange-950">
   
