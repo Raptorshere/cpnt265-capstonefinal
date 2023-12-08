@@ -1,12 +1,21 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<img class="brightness-75 mx-auto bg-cover" src="images/hero-img.jpg" alt="" />
+<section
+  class="absolute top-1/3 left-1/2 transform -translate-y-1/2 -translate-x-1/2 text-center text-white bg-opacity-70 "
+>
+  <div class="typewriter text-slate-50 col-start-1 row-start-1 z-10 text-7xl justify-self-end self-center font-extrabold">
+    <h1 class=" typewriter font-libreBaskerville text-8xl text-white pb-4 px-2">
+      Marvels' Collection <div>Panel</div>
+    </h1>
+  </div>
 
-<h1 class="text-3xl font-bold underline">
-  Hello world!
-</h1>
+<!-- <figure class="max-w-lg">
+  <img class="h-auto max-w-full rounded-lg" src="/docs/images/examples/image-3@2x.jpg" alt="image description">
+  <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">Marvels' Collection Panel</figcaption>
+</figure> -->
 
-<style lang="postcss">
+</section>
+<!-- <style lang="postcss">
   :global(html) {
     background-color: theme(colors.gray.100);
   }
-</style>
+</style> -->
