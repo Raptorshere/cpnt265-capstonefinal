@@ -41,6 +41,14 @@
   </figure>
   <p class="font-[WorkSans] text-white">The world sure is different (After the Blip)</p>
   <h1 class="font-[WorkSans] text-3xl text-white">Phase 5</h1>
+
+  <figure class="h-auto max-w-xl ms-auto rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+    <a href="/list">
+      <img class="rounded-lg" src="images/groot.jpg" alt="image description">
+    </a>
+  </figure>
+  <p class="font-[WorkSans] text-white">Groot</p>
+  <h1 class="font-[WorkSans] text-3xl text-white">Honorable mention</h1>
   </div>
 </body>
   
