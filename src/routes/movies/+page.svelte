@@ -1,7 +1,7 @@
 <body class="bg-orange-950">
   
-  <div class="m-8 my-10 grid md:grid-cols-1 gap-8 space-x-2">
-  <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <div class="lg:inline-grid grid-cols-3 gap-4">
+  <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-md transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/avengers-1.jpg" alt="image description">
     </a>
@@ -24,7 +24,7 @@
   <p class="font-[WorkSans] text-white">The story that started them off</p>
   
   
-  <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-md transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/spider-man-homecoming.jpg" alt="image description">
     </a>
@@ -44,7 +44,7 @@
     </figcaption>
   </figure>
   <h1 class="font-[WorkSans] text-3xl text-white">Phase 4</h1>
-  <p class="font-[WorkSans] text-white">World sure is different (After the Blip)</p>
+  <p class="font-[WorkSans] text-white">The world sure is different (After the Blip)</p>
   
   <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="list">

@@ -1,5 +1,6 @@
 <img class="rounded-lg w-98 h-76" src="images/allphases-collection.jpg" alt="">
-<img class="rounded-lg w-98 h-76" src="images/phase-5.jpg" alt="">
+<img class="bg-cover rounded-lg w-96 h-76" src="images/phase-5-img.jpg">
+
 
 <body class="bg-orange-950 text-3xl text-white font- [WorkSans]">
   Welcome to a snippet of my Marvel collection which features all Marvel based movies that spanned from 2008 to present-day. 
