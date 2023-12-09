@@ -1,7 +1,6 @@
 <body class="bg-orange-950 text-3xl text-white font- [WorkSans]">
 
 <img class="rounded-lg w-98 h-76" src="images/allphases-collection.jpg" alt="grid-style image of marvel related movies that span from each phase">
-<img class="rounded-lg w-98 h-76" src="images/phase-5-img.jpg" alt="image of marvel movie collection">
 <img class="rounded-lg w-98 h-76" src="images/marvel-tvshows.jpg" alt="">
 
 
