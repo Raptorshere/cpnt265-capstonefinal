@@ -1,6 +1,7 @@
 <body class="bg-orange-950">
   
-  <figure class="h-auto max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <div class="m-8 my-10 grid md:grid-cols-1 gap-8 space-x-2">
+  <figure class="h-auto max-w-full rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/avengers-1.jpg" alt="image description">
     </a>
@@ -11,7 +12,7 @@
   <h1 class="font-[WorkSans] text-3xl text-white">Phase 1</h1>
   <p class="font-[WorkSans] text-white">Where it all began</p>
   
-  <figure class="h-auto max-w-xl rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <figure class="h-auto max-w-xl ms-auto rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/guardians-of-the-galaxy.jpg" alt="image description">
     </a>
@@ -23,7 +24,7 @@
   <p class="font-[WorkSans] text-white">The story that started them off</p>
   
   
-  <figure class="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/spider-man-homecoming.jpg" alt="image description">
     </a>
@@ -34,7 +35,7 @@
   <h1 class="font-[WorkSans] text-3xl text-white">Phase 3</h1>
   <p class="font-[WorkSans] text-white">Tipping the cosmic scales to balance</p>
   
-  <figure class="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/spider-no-way-home.jpg" alt="image description">
     </a>
@@ -45,7 +46,7 @@
   <h1 class="font-[WorkSans] text-3xl text-white">Phase 4</h1>
   <p class="font-[WorkSans] text-white">World sure is different (After the Blip)</p>
   
-  <figure class="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="list">
       <img class="rounded-lg" src="images/the-marvels.jpg" alt="image description">
     </a>
@@ -55,9 +56,9 @@
   </figure>
   <h1 class="font-[WorkSans] text-3xl text-white">Phase 5</h1>
   <p class="font-[WorkSans] text-white">To New Beginnings</p>
+  </div>
 </body>
   
-relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0
 
 <!-- <body class="bg-orange-950">
   
