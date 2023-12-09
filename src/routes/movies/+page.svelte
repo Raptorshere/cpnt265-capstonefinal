@@ -1,7 +1,7 @@
 <body class="bg-orange-950">
   
   <div class="m-8 my-10 grid md:grid-cols-1 gap-8 space-x-2">
-  <figure class="h-auto max-w-full rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
+  <figure class="h-auto max-w-md rounded-lg shadow-xl dark:shadow-gray-800 relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
     <a href="/list">
       <img class="rounded-lg" src="images/avengers-1.jpg" alt="image description">
     </a>
