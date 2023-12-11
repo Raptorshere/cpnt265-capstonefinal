@@ -10,9 +10,9 @@
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
     
-      <Icon icon="fluent-mdl2:my-movies-t-v" color="red" width="90" height="90" />
+      <Icon class="animate-bounce" icon="fluent-mdl2:my-movies-t-v" color="red" width="90" height="90" />
         
-        <span class="font-[HedvigLettersSerif] animate-bounce self-center text-5xl font-semibold whitespace-nowrap dark:text-white">Marvel's Collection Panel</span>
+        <span class="font-[HedvigLettersSerif] self-center text-5xl font-semibold whitespace-nowrap dark:text-white">Marvel's Collection Panel</span>
     </a>
     
     <div class="hidden w-full md:block md:w-auto" id="navbar-default">

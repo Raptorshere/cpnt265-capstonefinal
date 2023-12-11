@@ -1,4 +1,4 @@
-<img class="brightness-75 mx-auto bg-cover relative  transition-all duration-300 cursor-pointer" src="images/hero-img.jpg" alt="" />
+<img class="brightness-90 mx-auto bg-cover " src="images/hero-img.jpg" alt="marvel characters from all the different marvel movies" />
 <section
   class="absolute top-1/3 left-1/2 transform -translate-y-1/2 -translate-x-1/2 text-center text-white bg-opacity-70 "
 >
