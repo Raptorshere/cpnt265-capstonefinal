@@ -14,7 +14,6 @@
         
         <span class="font-[HedvigLettersSerif] self-center text-5xl font-semibold whitespace-nowrap dark:text-white">Marvel's Collection Panel</span>
     </a>
-
     
     <div class="hidden w-full md:block md:w-auto" id="navbar-default">
       <ul class="md:flex items-center gap-x-8">
