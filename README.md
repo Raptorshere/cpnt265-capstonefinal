@@ -2,6 +2,10 @@
 
 # Attributions:
 
+## [Iconify install](https://iconify.design/docs/icon-components/svelte/)
+
+## [Iconify icon](https://icon-sets.iconify.design/fluent-mdl2/my-movies-t-v/)
+
 # [Images](https://www.google.ca/imghp?hl=en&ogbl)
 
 
@@ -12,3 +16,4 @@
 ### ***[Spider-Man: Homecoming trailer: /list](https://www.youtube.com/watch?v=rk-dF1lIbIg)***
 ### ***[Black Widow trailer: /list](https://www.youtube.com/watch?v=RxAtuMu_ph4)***
 ### ***[The Marvels trailer: /list](https://www.youtube.com/watch?v=wS_qbDztgVY)***
+
