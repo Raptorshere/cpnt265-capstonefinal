@@ -9,6 +9,7 @@
 <nav class="bg-orange-950">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
+      
     
       <Icon class="animate-bounce" icon="fluent-mdl2:my-movies-t-v" color="red" width="90" height="90" />
         

@@ -2,7 +2,6 @@
 
 # Attributions:
 
-
 ## [Navbar-default](https://flowbite.com/docs/components/navbar/)
 ## [Grayscale hover feature for cards](https://flowbite.com/docs/typography/images/#grayscale)
 ## [Video Formatting](https://tailwindcss.com/docs/aspect-ratio)
