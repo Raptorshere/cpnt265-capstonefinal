@@ -2,6 +2,11 @@
 
 # Attributions:
 
+
+## [Navbar-default](https://flowbite.com/docs/components/navbar/)
+## [Grayscale hover feature for cards](https://flowbite.com/docs/typography/images/#grayscale)
+## [Video Formatting](https://tailwindcss.com/docs/aspect-ratio)
+
 ## [Iconify install](https://iconify.design/docs/icon-components/svelte/)
 
 ## [Iconify icon](https://icon-sets.iconify.design/fluent-mdl2/my-movies-t-v/)
